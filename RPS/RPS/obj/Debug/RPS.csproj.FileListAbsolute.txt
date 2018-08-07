@@ -1,0 +1,10 @@
+C:\Users\Raquel\source\repos\RPS\RPS\bin\Debug\RPS.exe.config
+C:\Users\Raquel\source\repos\RPS\RPS\bin\Debug\RPS.exe
+C:\Users\Raquel\source\repos\RPS\RPS\bin\Debug\RPS.pdb
+C:\Users\Raquel\source\repos\RPS\RPS\obj\Debug\RPS.csprojResolveAssemblyReference.cache
+C:\Users\Raquel\source\repos\RPS\RPS\obj\Debug\RPS.Form1.resources
+C:\Users\Raquel\source\repos\RPS\RPS\obj\Debug\RPS.Properties.Resources.resources
+C:\Users\Raquel\source\repos\RPS\RPS\obj\Debug\RPS.csproj.GenerateResource.Cache
+C:\Users\Raquel\source\repos\RPS\RPS\obj\Debug\RPS.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\source\repos\RPS\RPS\obj\Debug\RPS.exe
+C:\Users\Raquel\source\repos\RPS\RPS\obj\Debug\RPS.pdb
